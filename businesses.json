@@ -1,0 +1,12 @@
+[
+  {"name": "Biz 1", "town": "Coleraine", "rating": 5, "reviews": [{"username": "Sam", "comment": "Great service", "stars": 5}]},
+  {"name": "Biz 2", "town": "Banbridge", "rating": 4, "reviews": [{"username": "Alex", "comment": "Very friendly", "stars": 4}]},
+  {"name": "Biz 3", "town": "Belfast", "rating": 3, "reviews": [{"username": "Jo", "comment": "Average", "stars": 3}]},
+  {"name": "Biz 4", "town": "Lisburn", "rating": 4, "reviews": [{"username": "Pat", "comment": "Good value", "stars": 4}]},
+  {"name": "Biz 5", "town": "Derry", "rating": 5, "reviews": [{"username": "Lee", "comment": "Excellent", "stars": 5}]},
+  {"name": "Biz 6", "town": "Newry", "rating": 2, "reviews": [{"username": "Kim", "comment": "Slow service", "stars": 2}]},
+  {"name": "Biz 7", "town": "Armagh", "rating": 4, "reviews": [{"username": "Max", "comment": "Would visit again", "stars": 4}]},
+  {"name": "Biz 8", "town": "Bangor", "rating": 3, "reviews": [{"username": "Ray", "comment": "Okay overall", "stars": 3}]},
+  {"name": "Biz 9", "town": "Omagh", "rating": 5, "reviews": [{"username": "Ann", "comment": "Highly recommended", "stars": 5}]},
+  {"name": "Biz 10", "town": "Larne", "rating": 4, "reviews": [{"username": "Tom", "comment": "Nice place", "stars": 4}]}
+]
